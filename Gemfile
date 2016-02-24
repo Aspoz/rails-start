@@ -13,6 +13,8 @@ gem 'bcrypt', '~> 3.1.7'
 gem 'rack-handlers'
 gem 'unicorn'
 
+gem 'active_model_serializers'
+
 # gem 'capistrano-rails', group: :development
 
 group :development, :test do
